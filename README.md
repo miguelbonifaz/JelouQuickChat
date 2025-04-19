@@ -1,4 +1,6 @@
-# JelouQuickChat
+#wip
+
+<!-- # JelouQuickChat
 
 JelouQuickChat es una extensión para Chrome que te permite almacenar y gestionar mensajes predefinidos para usarlos rápidamente cuando estés probando chatbots o aplicaciones de chat.
 
@@ -64,4 +66,4 @@ Las contribuciones son bienvenidas. Si encuentras un error o tienes una sugerenc
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
-# JelouQuickChat
+# JelouQuickChat -->
